@@ -23,7 +23,7 @@ export const main = {
 export const aboutme = {
   imgLink:
     "https://avatars.githubusercontent.com/u/97494267?s=400&u=6355fe247219c4d4ff271db7735752a81e30007e&v=4",
-  p1: "Hey, My name is Mayuri Nilkath Warale. I have completed my Bachelor in Electrical from Matoshri College of Engineering, Nanded(Maharashtra).",
+  p1: "Hey, My name is Mayuri Nilkanth Warale. I have completed my Bachelor in Electrical from Matoshri College of Engineering, Nanded(Maharashtra).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like Fitness, cooking , read books and explore new things.",
 };
@@ -151,17 +151,19 @@ Subscription page.`,
     github: "https://github.com/salove16/KFC-COMPLETE-PROJECT.git",
   },
   
-//   {
-//     id: 6,
-//     title: "My Recipe App",
-//     desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
-//     feature: `Search recipe,
-// Recipe of the day.`,
-//     tech: `Tech Stack: HTML | CSS | JavaScript`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
-//     link: "https://myfoodapp21.netlify.app/",
-//     github: "https://github.com/ashish1234sharma/Food-app",
-//   },
+  {
+    id: 3,
+    title: "Nykaa e-commerce website / Clone",
+    desc: `Nykaa is an Indian e-commerce company, It sells beauty, wellness and fashion products across websites, mobile apps and 84 offline stores. 
+    In 2020, it became the first Indian unicorn startup headed by a woman.`,
+    feature: `Search products,
+Sign-in/Sign-up validation with backend,
+    corousel image.`,
+    tech: `Tech Stack: React JS, the hooks, Redux, Thunks`,
+    img: "https://miro.medium.com/max/1400/1*WZHrn7dNf4zcY6gnPrmLhQ.jpeg",
+    link: "https://nykaareact.netlify.app/",
+    github: " https://github.com/pankajnandi/Nykaa.com",
+  },
 ];
 
 // Social Media Links
